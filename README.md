@@ -8,6 +8,10 @@ I'm currently interning with **Kavach Networks Pvt Ltd** and **OpenGenus Foundat
 * Kavach Networks Pvt Ltd (May 2020 - PRESENT)
 * OpenGenus Foundation (May 2020 - PRESENT)
 
+### Education
+* PES University EC Campus  
+May 2018 - PRESENT
+
 ### My Skills
 * Programming Languages - Python, C, C++ and Java(basics)
 * Web Dev - HTML, CSS, JS, JQuery, Django, ReactJS, Bootstrap
