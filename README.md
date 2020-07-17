@@ -20,7 +20,7 @@ May 2018 - PRESENT
 * Cloud - GCP, Azure
 
 ### Contact
-* https://vishnusreddy.me
-* vishnusreddy007@gmail.com
-* Instagram : vishnu.s.reddy
-* Twitter : vishnu_s_reddy
+* Website: https://vishnusreddy.me
+* Email: vishnusreddy007@gmail.com and vishnusreddy@pesu.pes.edu
+* Instagram : [vishnu.s.reddy](https://www.instagram.com/vishnu.s.reddy/)
+* Twitter : [vishnu_s_reddy](https://twitter.com/vishnu_s_reddy)
