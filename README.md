@@ -2,7 +2,7 @@
 ### About
 I'm a student at **PES University Electronic City Campus** doing my undergrad in Computer Science and Engineering.  
 My domians of interest include **Web Dev** and **Data Science**.  
-I'm currently interning with **Kavach Networks Pvt Ltd** and **OpenGenus Foundation**.  I like spending my free time solving problems on HackerRank and watching shows on Netflix.
+I'm currently interning with **Kavach Networks Pvt Ltd**.  I like spending my free time solving problems on HackerRank and watching shows on Netflix.
 
 ### Internship Experience
 * Kavach Networks Pvt Ltd (May 2020 - PRESENT)
