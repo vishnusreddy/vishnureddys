@@ -19,7 +19,9 @@ May 2018 - PRESENT
 * App Dev with FLutter
 * Data Science and Machine Learning - pandas, numpy, matplotlib, scikit
 * Databases - MySQL, SQL Server, PostgreSQL, MongoDB
-* Cloud - GCP, Azure
+* Cloud - GCP, Azure  
+
+[![Vishnu's github stats](https://github-readme-stats.vercel.app/api?username=vishnureddys&count_private=true&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
 
 ### Contact
 * Website: https://vishnusreddy.me
