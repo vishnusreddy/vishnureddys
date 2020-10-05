@@ -5,13 +5,14 @@ Hey, I'm a student at **PES University** doing my undergrad in Computer Science 
 I like spending my free time solving problems on HackerRank and watching shows on Netflix.
 
 ### Internship Experience
-* InDemys Analytics (JULY 2020 - PRESENT)
 * OpenGenus Foundation (MAY 2020 - PRESENT)
+* InDemys Analytics (JULY 2020 - AUGUST 2020)
 * Kavach Networks Pvt Ltd (MAY 2020 - AUGUST 2020)
 
 ### Education
-* PES University EC Campus  
-May 2018 - PRESENT
+* PES University (JULY 2018 - PRESENT)
+* Christ Junior College (JULY 2016 - MAY 2018)
+
 
 ### Skills
 * Programming Languages - Python, C, C++ and Java(basics)
